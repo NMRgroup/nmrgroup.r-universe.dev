@@ -1,0 +1,10 @@
+[
+    {
+        "package": "coreStatsNMR",
+        "url": "https://gitlab.com/NMRgroup/corestatsnmr"
+    },
+    {
+        "package": "paletteNMR",
+        "url": "https://gitlab.com/NMRgroup/paletteNMR"
+    }
+]
