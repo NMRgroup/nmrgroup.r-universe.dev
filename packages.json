@@ -1,5 +1,13 @@
 [
     {
+        "package": "here",
+        "url": "https://github.com/r-lib/here"
+    },
+    {
+        "package": "renv",
+        "url": "https://github.com/rstudio/renv/"
+    },
+    {
         "package": "coreStatsNMR",
         "url": "https://gitlab.com/NMRgroup/corestatsnmr"
     },
