@@ -8,6 +8,14 @@
         "url": "https://github.com/rstudio/renv/"
     },
     {
+        "package": "janitor",
+        "url": "https://github.com/sfirke/janitor"
+    },
+    {
+        "package": "skimr",
+        "url": "https://github.com/ropensci/skimr"
+    },
+    {
         "package": "coreStatsNMR",
         "url": "https://gitlab.com/NMRgroup/corestatsnmr"
     },
