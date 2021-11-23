@@ -16,6 +16,10 @@
         "url": "https://github.com/ropensci/skimr"
     },
     {
+        "package": "qualtRics",
+        "url": "https://github.com/ropensci/qualtRics"
+    },
+    {
         "package": "coreStatsNMR",
         "url": "https://gitlab.com/NMRgroup/corestatsnmr"
     },
