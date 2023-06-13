@@ -12,19 +12,31 @@
         "url": "https://github.com/sfirke/janitor"
     },
     {
-        "package": "skimr",
-        "url": "https://github.com/ropensci/skimr"
-    },
-    {
-        "package": "qualtRics",
-        "url": "https://github.com/ropensci/qualtRics"
-    },
-    {
         "package": "coreStatsNMR",
         "url": "https://gitlab.com/NMRgroup/corestatsnmr"
     },
     {
         "package": "paletteNMR",
         "url": "https://gitlab.com/NMRgroup/paletteNMR"
+    },
+    {
+        "package": "ggplot2",
+        "url": "https://github.com/tidyverse/ggplot2"
+    },
+    {
+        "package": "fastverse",
+        "url": "https://github.com/fastverse/fastverse/"
+    },
+    {
+        "package": "tidytable",
+        "url": "https://github.com/markfairbanks/tidytable/"
+    },
+    {
+        "package": "dataverifyr"
+        "url": "https://github.com/DavZim/dataverifyr/"
+    },
+    {
+        "package": "qualtRics",
+        "url": "https://github.com/ropensci/qualtRics"
     }
 ]
